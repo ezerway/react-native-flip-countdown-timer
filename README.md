@@ -20,7 +20,7 @@ IOS            |  Android
 ### Installation
 
 ```bash
-$ npm i react-native-flip-countdown-timer --save
+$ npm i ez-react-native-flip-countdown-timer --save
 ```
 
 ### Basic Usage
