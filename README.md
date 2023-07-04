@@ -29,7 +29,7 @@ import React, { Component } from 'react';
 import {
   StyleSheet, View, TouchableOpacity, Text,
 } from 'react-native';
-import { CountdownTimer, FlipNumber } from 'react-native-flip-countdown-timer';
+import { CountdownTimer, FlipNumber } from 'ez-react-native-flip-countdown-timer';
 
 export default class App extends Component {
   state = {
